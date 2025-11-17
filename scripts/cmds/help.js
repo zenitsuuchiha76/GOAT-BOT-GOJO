@@ -61,9 +61,9 @@ module.exports = {
       });
 
       const totalCommands = commands.size;
-      msg += `\n\n╭─────❃[🦆𝙴𝙽𝙹𝙾𝚈🦆] |[𝚈𝙾𝚄𝚁 𝙳𝙸𝙳𝙰𝚁]\n | [ 🦆𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝚃𝚈𝙿𝙴: ${prefix}𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙶𝙲 ]\n | [🧠𝙳𝙰𝚈𝚁𝙴𝙲𝚃 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺: //m.me/j/AbZGfIdes8qdzjsy/ ]\n│>𝚃𝙾𝚃𝙰𝙻 𝙲𝙼𝙳𝚂: [🧠${totalCommands}🦆].\n│𝚃𝚈𝙿𝙴:[ 🦆${prefix}𝙷𝙴𝙻𝙿 𝚃𝙾🦆\n│🦆<𝙲𝙼𝙳> 𝚃𝙾 𝙻𝙴𝙰𝚁𝙽 𝚃𝙷𝙴 𝚄𝚂𝙰𝙶𝙴.]\n╰────────────✦`;
+      msg += `\n\n╭─────❃[🦆𝙴𝙽𝙹𝙾𝚈🦆] |[𝚈𝙾𝚄𝚁 𝙶𝙾𝙹𝙾 𝙾𝚁𝚄𝙿𝙴 𝙿𝙸𝚆 𝙿𝙸𝚆]\n | [ 🦆𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝚃𝚈𝙿𝙴: ${prefix}𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙶𝙲 ]\n | [🧠𝙳𝙰𝚈𝚁𝙴𝙲𝚃 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺: //m.me/j/AbZGfIdes8qdzjsy/ ]\n│>𝚃𝙾𝚃𝙰𝙻 𝙲𝙼𝙳𝚂: [🧠${totalCommands}🦆].\n│𝚃𝚈𝙿𝙴:[ 🦆${prefix}𝙷𝙴𝙻𝙿 𝚃𝙾🦆\n│🦆<𝙲𝙼𝙳> 𝚃𝙾 𝙻𝙴𝙰𝚁𝙽 𝚃𝙷𝙴 𝚄𝚂𝙰𝙶𝙴.]\n╰────────────✦`;
       msg += ``;
-      msg += `\n╭─────❃\n│ 🌟 | [📛𝙶𝙾𝙰𝚃𝙱𝙾𝚃📛│𝙾𝚆𝙽𝙴𝚁 𝙵𝙱 𝙸𝙳: //www.facebook.com/profile.php?id=/100000934675181\n╰────────────✦`; 
+      msg += `\n╭─────❃\n│ 🌟 | [📛𝙶𝙾𝙰𝚃𝙱𝙾𝚃📛│𝙾𝚆𝙽𝙴𝚁 𝙵𝙱 𝙸𝙳: //www.facebook.com/profile.php?id=/100051168244116\n╰────────────✦`; 
 
       const attachment = await axios.get("https://drive.google.com/uc?export=download&id=1To8FKXUm6NCk_uhWxfIqbb-Fn1Hv-Epv", { responseType: "stream" });
 
