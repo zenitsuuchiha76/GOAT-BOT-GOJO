@@ -16,10 +16,10 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = "𝗠𝗿.𝗗𝗶𝗱𝗮𝗿";
-		const ownAge = "19";
-		const messenger = " //https://m.me/100044855600383";
-		const authorFB = " //https://www.facebook.com/Didar.Einstein12";
+		const authorName = "𝗚𝗼𝗷𝗼 𝗢𝗿𝘂𝗽𝗲 𝗣𝗶𝘄 𝗣𝗶𝘄";
+		const ownAge = "20+";
+		const messenger = " //https://m.me/100051168244116";
+		const authorFB = " //https://www.facebook.com/100051168244116";
 		const authorNumber = "013********94";
 		const Status = "𝘀𝗶𝗻𝗴𝗹𝗲 ";
 		const urls = [
@@ -49,7 +49,7 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 : ${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑰𝒏𝒔𝒕𝒂:  //https://www.instagram.com/alvee.didar.12?igsh=anZjZDV0aDMzZmM3&utm_source=qr
+    𝑰𝒏𝒔𝒕𝒂:  //https://www.instagram.com/gojo.saturo.12?igsh=anZjZDV0aDMzZmM3&utm_source=qr
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
